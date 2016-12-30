@@ -1,0 +1,14 @@
+com\visier\selenium\demo\common\TestMenuBarNavigation.class
+com\visier\selenium\demo\solution\VisierSolutionPageMap.class
+com\visier\selenium\demo\solution\VisierSolutionSuite.class
+com\visier\selenium\demo\toolkit\MasterHelper$SupportedBrowser.class
+com\visier\selenium\demo\toolkit\TestRunner.class
+com\visier\selenium\demo\toolkit\Logger.class
+com\visier\selenium\demo\toolkit\TestVisierException.class
+com\visier\selenium\demo\common\VisierCommonSuite.class
+com\visier\selenium\demo\common\CommonPageMap.class
+com\visier\selenium\demo\solution\TestProductCapabilityBookDownload.class
+com\visier\selenium\demo\common\CommonHelper.class
+com\visier\selenium\demo\solution\SolutionHelper.class
+com\visier\selenium\demo\toolkit\MasterHelper$TimeoutType.class
+com\visier\selenium\demo\toolkit\MasterHelper.class
